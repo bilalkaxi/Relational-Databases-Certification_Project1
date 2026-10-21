@@ -9,7 +9,6 @@ The Celestial Bodies Database stores information about celestial objects in the 
 ## Technologies Used
 
 - PostgreSQL
-- SQL
 
 ## Database Features
 
@@ -27,7 +26,7 @@ The database includes tables representing celestial entities, such as:
 - `star`
 - `planet`
 - `moon`
-- `more_info`
+- `black_hole`
 
 ## Getting Started
 
@@ -71,3 +70,4 @@ Completed as part of the [freeCodeCamp Relational Database Certification](https:
 
 - GitHub: [@bilalkaxi](https://github.com/bilalkaxi)
 - Repository: [Relational-Databases-Certification_Project1](https://github.com/bilalkaxi/Relational-Databases-Certification_Project1)
+
